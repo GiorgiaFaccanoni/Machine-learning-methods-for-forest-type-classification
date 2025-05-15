@@ -3,7 +3,7 @@ Machine learning methods were used to classify land plots into different classes
 ## Overview
 During this project, analyses were conducted on data referring to four land areas located in the Roosevelt National Forest in northern Colorado (USA). The main goal was to classify each individual observation based on the type of vegetation present, i.e., to determine which of the seven forest types each instance belongs to. The analysis was carried out by training machine learning algorithms that, using the explanatory variables available in the dataset, are able to assign each observation to its corresponding forest type.
 
-A secondary objective was to apply unsupervised algorithms capable of identifying homogeneous groups within the data that are heterogeneous between them. The purpose of this investigation was to detect clusters where the analyzed land plots are geographically close to one another—meaning they belong to one of the four wilderness areas into which the Roosevelt National Forest is divided.
+A secondary objective was to apply unsupervised algorithms capable of identifying homogeneous groups within the data that are heterogeneous between them. The purpose of this investigation was to detect clusters where the analyzed land plots are geographically close to one another meaning they belong to one of the four wilderness areas into which the Roosevelt National Forest is divided.
 
 ## Materials
 
